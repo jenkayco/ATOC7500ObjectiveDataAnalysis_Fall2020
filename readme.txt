@@ -1,7 +1,7 @@
 Application lab Repository for ATOC7500 Objective Data Analysis
 Fall 2020 
 Jennifer E. Kay, University of Colorado, Jennifer.E.Kay@colorado.edu
-Last updated: September 2, 2020
+Last updated: September 23, 2020
 
 1) Application Lab #1 files in the folder lab1
 ATOC7500_applicationlab1.pdf = guidance for the lab, start here
