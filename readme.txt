@@ -1,7 +1,7 @@
 Application lab Repository for ATOC7500 Objective Data Analysis
 Fall 2020 
 Jennifer E. Kay, University of Colorado, Jennifer.E.Kay@colorado.edu
-Last updated: October 14, 2020
+Last updated: October 23, 2020
 
 0) Lecture code in folder lecture_code
 
