@@ -30,5 +30,12 @@ att_faces.npy - data needed for ATOC7500_applicationlab3_eigenfaces.ipynb
 ***Please download yourself from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
 or from https://drive.google.com/file/d/10-hoqJQPrwOj8cXeel6-EcXU_zPuAkXZ/view?usp=sharing3) 
 
+4) Application Lab #4 files in folder lab4
+ATOC7500_applicationlab4.docx - guidance on lab4 spectral analysis
+ATOC7500_applicationlab4_fft_christman.ipynb - spectral analysis of hourly met data
+ATOC7500_applicationlab4_fft_EPICA.ipynb - spectral analysis of ice core data
+Christman_data_nomissing.csv - data needed
+edc3deuttemp2007_nohead.txt - data needed
+edc3deuttemp2007.txt - data needed
 
 
