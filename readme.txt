@@ -38,4 +38,11 @@ Christman_data_nomissing.csv - data needed
 edc3deuttemp2007_nohead.txt - data needed
 edc3deuttemp2007.txt - data needed
 
-
+5) Application Lab #5 files in folder lab5
+ATOC7500_applicationlab5 - guidance on lab5 filtering
+ATOC7500_applicationlab5_check_python_convolution.ipynb - understand python functions used to smooth/filter in the time domain
+ATOC7500_applicationlab5_synthetic_data_with_filters.ipynb - filter analysis of synthetic data
+ATOC7500_applicationlab5_ENSO_mrbutterworth.ipynb - filter analysis of ENSO 
+###The data needed for are too but to upload to github.
+Download yourself from CESM Large Ensemble (https://www.cesm.ucar.edu/projects/community-projects/LENS/)
+or from https://drive.google.com/file/d/1NrcdsqNpqQf-qEHMOPZrB7mwdF-fwpyQ/view?usp=sharing
